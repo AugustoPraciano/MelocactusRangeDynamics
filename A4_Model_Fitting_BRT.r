@@ -1,14 +1,13 @@
 #######################################################################################
-###  Written by Sampaio, A. C. P. (1) & Cavalcante, A. de M. B. (2), 2022
+###  Written by Sampaio, A. C. P. (1) & Cavalcante, A. de M. B. (2), 2023
 ###  1, 2 Instituto Nacional de Pesquisas Espaciais (INPE), Eusébio, Brazil
 ###  Published in:
 #######################################################################################
 ##############################   MODEL FITTING ########################################
 #######################################################################################
-### Esse é o script principal, usado para ajustar um modelo de distribuição com Boosted
-### Regression Trees (BRT) e tranferi-lo para cenários futuros de mudanças climáticas. 
-### A AUC é usada para avaliar os modelos; para isso os dados de espécies sao  
-### particionados em dados de treino e teste.
+### This is the main script used to fit a Boosted Regression Trees (BRT) distribution 
+### model and transfer it to future climate change scenarios. AUC is used to evaluate 
+### the models. For this the species data are partitioned into training and test data
 #######################################################################################
 ###################################  Index  ###########################################
 ### 1 - Load packages
