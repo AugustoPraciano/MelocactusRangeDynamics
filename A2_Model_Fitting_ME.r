@@ -1,5 +1,5 @@
 #######################################################################################
-###  Written by Sampaio, A. C. P. (1) & Cavalcante, A. de M. B. (2), 2022
+###  Written by Sampaio, A. C. P. (1) & Cavalcante, A. de M. B. (2), 2023
 ###  1, 2 Instituto Nacional de Pesquisas Espaciais (INPE), Eusébio, Brazil
 ###  Published in:
 #######################################################################################

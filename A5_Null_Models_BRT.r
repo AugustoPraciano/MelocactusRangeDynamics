@@ -1,10 +1,9 @@
 #######################################################################################
-################################### 1 - Null Models ###################################
+##################################### Null Models #####################################
 #######################################################################################
-### Esse script é usado para criar e avaliar 1.000 modelos de distribuição nulos, e 
-### deve ser execultado após o script principal "A2_Model_Fitting". Os modelos nulos 
-### são usados para testar a significância dos modelos criados com dados de espécies 
-### reais
+### This script is used to create and evaluate 1000 null distribution models. 
+### This must be run after the main "A4_Model_Fitting_BRT" script. Null models are
+### used to test the significance of the models created with real species data.
 
 # setting random seed to always create the same random set
 set.seed(1993)
